@@ -1,5 +1,5 @@
 test:
-  message: RefreshTest
+  message: Refreshed
   
 server:
   port: 0
